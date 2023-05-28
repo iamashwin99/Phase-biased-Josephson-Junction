@@ -12,7 +12,7 @@ National Institute, Jatni, 752050, Odisha, India.*
 | ----------- | ------------------------------------------------------------------------------------------------------------ |
 | Paper       | Coming soon ...                                                                                              |
 | Preprint    | [![arXiv:2304.11457](https://img.shields.io/badge/arxiv-2304.11457-green)](https://arxiv.org/abs/2304.11457) |
-| Binder      | Coming soon …                                                                                                |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamashwin99/Phase-biased-Josephson-Junction/HEAD) |
 | License     | Coming soon …                                                                                                |
 | DOI         | Coming soon …                                                                                                |
 
