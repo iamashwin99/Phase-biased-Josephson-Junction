@@ -13,6 +13,7 @@ National Institute, Jatni, 752050, Odisha, India.*
 | Paper       | Coming soon ...                                                                                              |
 | Preprint    | [![arXiv:2304.11457](https://img.shields.io/badge/arxiv-2304.11457-green)](https://arxiv.org/abs/2304.11457) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamashwin99/Phase-biased-Josephson-Junction/HEAD) |
+| Google Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamashwin99/Phase-biased-Josephson-Junction/blob/main/notebooks/T_IVH_simulations.ipynb) |
 | License     | Coming soon …                                                                                                |
 | DOI         | Coming soon …                                                                                                |
 
